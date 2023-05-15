@@ -8,6 +8,11 @@
                     "label": "לאומי",
                     "url": "https://www.leumi.co.il/",
                     "icon": "./icons/leumi.png"
+                },
+                  { 
+                    "label": "פועלי אגודת ישראל",
+                    "url": "https://www.pagi.co.il/wps/portal/FibiMenu/Marketing/Private",
+                    "icon": "./icons/pagi.png"
                 }
             ]
 
