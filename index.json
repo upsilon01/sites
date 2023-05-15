@@ -1,0 +1,28 @@
+{
+    "categories": [ 
+        {
+            "name": "banking",
+            "label": "בנקאות",
+            "sites": [
+                { 
+                    "label": "לאומי",
+                    "url": "https://www.leumi.co.il/",
+                    "icon": "./icons/leumi.png"
+                }
+            ]
+
+        },
+         {
+            "name": "gov",
+            "label": "ממשלה",
+            "sites": [
+                { 
+                    "label": "לאומי",
+                    "url": "https://www.gov.il/he/departments/ministry_of_finance/govil-landing-page",
+                    "icon": "https://www.gov.il/govilHF/cdn/favicon.ico"
+                }
+            ]
+
+        }
+     ]
+}
